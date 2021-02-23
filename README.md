@@ -15,19 +15,20 @@ Features include
  - [Google Analytics](#google-analytics)
  - Datatables support
 
-###[Demo](http://flaskscaffold.cloudapp.net) Sign Up and Login
+### [Demo](http://flaskscaffold.cloudapp.net) Sign Up and Login
 
 
-###Installation
+### Installation
 
 Please ensure that development libraries for [PostgreSQL](http://techarena51.com/blog/flask-sqlalchemy-postgresql-tutorial/) are installed
 along with NPM.
 
-####Step 1:Clone the project to your application folder.
+#### Step 1:Clone the project to your application folder.
 
-    git clone git@github.com:Leo-g/Flask-Scaffold.git YourAppFolderName && cd YourAppFolderName
+    git clone https://github.com/Leo-G/Flask-Scaffold.gitgit@github.com:Leo-g/Flask-Scaffold.git YourAppFolderName 
+    cd YourAppFolderName
 
-####Step 2: Install the requirements and add your Database configuration details.
+#### Step 2: Install the requirements and add your Database configuration details.
 
     pip install -r requirements.txt
     cd app/templates/static
